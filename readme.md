@@ -94,7 +94,7 @@ Check out the [`Image` component](src/components/image.js) for a live example.
 ## TODO
 - [x] PWA
 - [ ] module & nomodule support
-- [ ] Testing
+- [x] Testing
 
 ## Related
 
